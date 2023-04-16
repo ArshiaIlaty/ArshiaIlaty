@@ -56,9 +56,10 @@ AWS (S3, EC2, RDS, DynamoDB, CloudFront)| Azure| GCP
 
 ### 👣 Next Steps
 
-_Since you don't want to leave my profile just yet! Here are a few things you can do :_
+_Since you don't want to leave my profile just yet!
 
 Connect with me : [![Linkedin Badge](https://img.shields.io/badge/-Arshia_Ilaty-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arshia-ilaty/)](https://www.linkedin.com/in/arshia-ilaty/)
 <br/> 
-<img align="center" alt="png" src="" />
+<br/> 
+<img align="center" alt="png" src="Screenshot 2023-04-15 at 6.21.31 PM.png" />
 <hr/>
