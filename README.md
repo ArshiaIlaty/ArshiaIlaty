@@ -18,6 +18,15 @@
   <img align="left" alt="Arshia's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 
+<a href="https://www.instagram.com/arshia_ilaty/">
+  <img align="left" alt="Arshia's IG" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+
+<a href="https://www.youtube.com/@arshiailaty7672">
+  <img align="left" alt="Arshia's IG" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+</a>
+
+
 <br />
 <br/>
 
