@@ -31,8 +31,7 @@
 <br/>
 
 <p>
-An Engineering Intern at Tesla Inc and
-A Graduate student at Unversity of Nevada, Reno.
+Hello! Thanks for taking you time to view my page. I am a joint Ph.D. student at the University of California, Irvine, Department of Computer Science (Donald Bren School) and San Diego State University. Previously, I completed my M.S. at the University of Nevada, Reno, Department of Computer Science and Engineering. I worked as a software engineer at World Mobile Inc.. I was a Software Engineer Intern at Tesla Inc. I received my B.S. degree in the Department of Electrical and Computer Engineering, at the University of Tabriz, Iran.
 <br/>
 I have a strong background in statistics and machine learning, and I am able to use my skills to solve complex problems and extract valuable insights from data. I am also proficient in programming languages such as Python, dart, and so on, and I am able to develop custom algorithms, models, and applications to meet specific needs. I am also interested in big data and data engineering, and I am knowledgeable in Hadoop and Spark.
 <br/>  
