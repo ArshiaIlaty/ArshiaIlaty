@@ -45,10 +45,10 @@ I am looking for a position where I can use my skills and knowledge to make a po
   
 ### ✨ Quick Facts
 
-- 👨🏽‍💻 I’m currently working as a Graduate Research Assistant
-- 🌱 I’m currently learning Data science and NLP
-- 🤔 I’m looking for help for my future projects
-- 🎿 Hobbies other than coding : Hiking, Mountaineering, and CrossFit🤖
+- 👨🏽‍💻 I’m currently working as a Graduate Research Assistant at UCI and SDSU
+- 🌱 I’m currently working on building a comprehensive evaluation framework in order to assess state-of-the-art ML algorithms that generate synthetic tabular, time-series, etc. data.
+- 🤔 I’m looking for help/contribution for future projects
+- 🎿 Hobbies other than coding : Hiking, Mountaineering, Cycling, CrossFit, and Poker🤖
 - 📫 How to reach me: arshia.ilaty99@gmail.com
 - 📝 [Resume](https://drive.google.com/file/d/1qG-DcqXRhtak3Kw0F2be-SvO4z_mMnz2/view)
 
