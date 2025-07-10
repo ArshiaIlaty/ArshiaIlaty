@@ -4,6 +4,10 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArshiaIlaty&layout=compact&theme=github_dark)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ArshiaIlaty&theme=onedark&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ArshiaIlaty&theme=github-compact)
+
 <br/>
 
 <a href="https://www.linkedin.com/in/arshia-ilaty/">
@@ -69,7 +73,7 @@ AWS (S3, EC2, RDS, DynamoDB, CloudFront)| Azure| GCP
 
 ### 👣 Next Steps
 
-_Since you don't want to leave my profile just yet!
+Since you don't want to leave my profile just yet!
 
 Connect with me : [![Linkedin Badge](https://img.shields.io/badge/-Arshia_Ilaty-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arshia-ilaty/)](https://www.linkedin.com/in/arshia-ilaty/)
 <br/> 
