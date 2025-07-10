@@ -1,5 +1,9 @@
 ### Hi there 👋, I'm [Arshia]([https://github.com/aman-atg](https://github.com/ArshiaIlaty)) 👨‍💻
 
+![Arshia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArshiaIlaty&show_icons=true&theme=github_dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArshiaIlaty&layout=compact&theme=github_dark)
+
 <br/>
 
 <a href="https://www.linkedin.com/in/arshia-ilaty/">
