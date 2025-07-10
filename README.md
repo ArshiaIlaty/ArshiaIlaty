@@ -1,4 +1,4 @@
-### Hi there 👋, I'm [Arshia]([https://github.com/aman-atg](https://github.com/ArshiaIlaty)) 👨‍💻
+### Hi there 👋, I'm [Arshia](https://github.com/ArshiaIlaty) 👨‍💻
 
 ![Arshia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArshiaIlaty&show_icons=true&theme=github_dark)
 
@@ -62,6 +62,14 @@ I am looking for a position where I can use my skills and knowledge to make a po
 
 ### Programming Languages: 
 Python| C/C++ | Flutter (Dart) | Java | Go | HTML + CSS | SQL
+
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=c%2B%2B)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=tensorflow)
+![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazonaws)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=kubernetes)
+
 ### Operation Systems: 
 Windows | Linux Ubuntu | MacOS
 ### Tools: 
@@ -80,3 +88,5 @@ Connect with me : [![Linkedin Badge](https://img.shields.io/badge/-Arshia_Ilaty-
 <br/> 
 <img align="center" alt="png" src="Screenshot 2023-04-15 at 6.21.31 PM.png" />
 <hr/>
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ArshiaIlaty.ArshiaIlaty)
